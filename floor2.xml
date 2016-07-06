@@ -1,0 +1,10 @@
+<COMPONENTS>
+	<MANIFOLDS>
+		<MANIFOLD_1		id="manifold 1" position="(0,0)"> </MANIFOLD_1>
+		<MANIFOLD_2 	id="manifold 2" position="(1,2)"> </MANIFOLD_2>
+		<MANIFOLD_3 	id="manifold 3" position="(1,3)"> </MANIFOLD_3>
+		<MANIFOLD_4 	id="manifold 4" position="(0,2)"> </MANIFOLD_4>
+		<MANIFOLD_5 	id="manifold 5" position="(2,2)"> </MANIFOLD_5>
+		<MANIFOLD_6 	id="manifold 6" position="(0,3)"> </MANIFOLD_6>
+	</MANIFOLDS>
+</COMPONENTS>
